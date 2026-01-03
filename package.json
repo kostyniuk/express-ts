@@ -1,0 +1,5 @@
+{
+  "name": "express-ts",
+  "module": "index.ts",
+  "type": "module",
+}
